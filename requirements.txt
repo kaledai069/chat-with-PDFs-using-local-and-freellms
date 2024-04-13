@@ -1,0 +1,7 @@
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+sse_starlette
+langchain-groq
+chainlit
